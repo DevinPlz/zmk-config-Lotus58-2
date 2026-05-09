@@ -133,7 +133,7 @@
 &trans     &Screenshots  &kp UP     &kp EXCLAMATION  &kp END     &kp PRCNT                   &kp C_VOL_UP  &kp PG_UP  &kp INS   &kp CARET  &kp PSCRN  &kp MINUS
 &trans     &kp LEFT      &kp DOWN   &kp RIGHT        &kp INSERT  &kp DLLR   &trans  &kp F18  &kp C_VOL_DN  &kp LEFT   &kp UP    &kp RIGHT  &kp TILDE  &kp UNDER
 &trans     &kp AT        &kp MINUS  &kp LBRC         &kp RBRC    &kp AMPS   &trans  &trans   &kp C_MUTE    &kp PG_DN  &kp DOWN  &kp COLON  &kp STAR   &kp PIPE
-                                    &kp F11          &trans      &trans     &trans  &trans   &trans        &mo 2      &kp F12
+                                    &kp F11          &trans      &trans     &trans  &trans   &trans        &mo 2      &mo 3
             >;
 
             sensor-bindings =
